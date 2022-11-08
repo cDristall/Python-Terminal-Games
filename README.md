@@ -1,2 +1,6 @@
 # Python-Terminal-Games
-Games designed to be played in the terminal.  Made with python.
+Text based games designed to be played in the terminal.  Made with python.
+
+# Connect Four
+
+# Tic Tac Toe
