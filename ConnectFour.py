@@ -37,6 +37,8 @@ class ConnectFour:
 
 	def draw_board(self) -> None:
 		
+		print_centre(' ')
+		print_center(' ')
 		header = '╷' + '╷'.join('1234567') + '╷'
 		print_centre(header)
 
